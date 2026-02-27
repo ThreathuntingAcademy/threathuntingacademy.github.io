@@ -1,0 +1,13 @@
+title: My Markdown Blog
+description: Writing in Markdown, hosted on GitHub
+theme: minima          # one of GitHub's supported themes (or pick another)
+show_excerpts: true    # show preview on home
+
+# Optional: your info
+author:
+  name: Your Name
+  email: you@example.com
+
+# Blog posts collection
+plugins:
+  - jekyll-feed   # for RSS
