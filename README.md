@@ -1,2 +1,0 @@
-# threathuntingacademy.github.io
-Blog
